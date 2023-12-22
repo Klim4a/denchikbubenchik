@@ -25,14 +25,13 @@
 			<!-- Navigation Menu  -->
 			<nav>
 				<ul>
-					<li><a href="index.html" class="selected">Home</a></li>
-					<li><a href="about.html">About</a></li>
-					<li><a href="team.html">Team</a></li>
-					<li><a href="contact.html">Contact</a></li>
+					<li><a href="index.html" class="selected">Главная</a></li>
+					<li><a href="about.html">О нас</a></li>
+					<li><a href="contact.html">Контакты</a></li>
 					<li><a href="login.html">
 						<?php 
 					if (empty($_POST['login'])) {
-    					echo "Login";
+    					echo "Войти";
 					}
 					if (isset($_POST['login'])) {
     					echo $_POST['login'];
