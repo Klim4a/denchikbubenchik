@@ -178,7 +178,7 @@
 
 				<!-- Social Media Links  -->
 				<div class="sm columns">
-					<h3 class="columns_title">Stay Tuned</h3>
+					<h3 class="columns_title">Cоц. сети</h3>
 					<ul>
 						<li>
 							<a class="inst" href="https://instagram.com/dxmnch">Instagram</a>
@@ -195,25 +195,25 @@
 
 				<!-- About Links  -->
 				<div class="about columns">
-					<h3 class="columns_title">About</h3>
+					<h3 class="columns_title">О нас</h3>
 					<ul>
 						<li>
-							<a href="#">Our Company</a>
+							<a href="#">Наша компания</a>
 						</li>
 						<li>
-							<a href="#">Our Team</a>
+							<a href="#">Контакты</a>
 						</li>
 						<li>
-							<a href="#">Blog</a>
+							<a href="#">Блог</a>
 						</li>
 					</ul>
 				</div>
 
 				<!-- Address  -->
 				<div class="address columns">
-					<h3 class="columns_title">Address</h3>
-					<p>Street Sovetskaya</p>
-					<p>Pinsk</p>
+					<h3 class="columns_title">Адрес</h3>
+					<p>Ул. Советская</p>
+					<p>Пинск</p>
 					<p class="phone">(29) 542-85-02</p>
 				</div>
 
